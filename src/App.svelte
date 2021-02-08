@@ -1,23 +1,8 @@
-<script>
-  const world = 'postcss'; // edit world and save to see hmr update
-</script>
-
-<style>
-  h1 {
-    color: orangered; /* change color an save to see hmr update */
-    /* you can also use css nesting
-    & .world {
-      font-size: 2rem;
-    }
-    */
-  }
-  .world {
-    @apply text-green-500 italic; /*  here's some tailwind apply */
-  }
-</style>
-
-<h1 class="border border-current rounded p-4 m-4">
-  <!-- tailwind classes in svelte template -->
-  Hello
-  <span class="world">{world}</span>
-</h1>
+<div id="app-wrapper" class="h-screen w-full bg-gray-800 text-white">
+  <div id="inner-wrapper" class="h-full flex items-center justify-center flex-col">
+    <div id="header" class="text-2xl font-bold mb-4 animate-pulse">🚀 site in progress 🚀</div>
+    <div id="find-twitter">
+      find me on <a class="text-gray-200 underline" href="https://twitter.com/nicoalbanese10">Twitter</a>
+    </div>
+  </div>
+</div>
