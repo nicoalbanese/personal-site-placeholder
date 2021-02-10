@@ -5,7 +5,7 @@
   >
     <div
       id="main-card"
-      class="bg-gray-100 sm:p-8 py-8 text-gray-700 rounded-xl shadow-2xl flex flex-col max-w-3xl sm:mx-0 mx-10"
+      class="bg-gray-100 sm:p-8 py-8 text-gray-700 rounded-xl shadow-2xl flex flex-col max-w-3xl sm:mx-0 mx-6"
     >
       <div
         id="card-top"
