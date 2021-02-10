@@ -26,7 +26,7 @@
             I'm an investor at <a href="https://www.ascensionventures.com"
               >Ascension</a
             >
-            where I focus on pre-seed investments. I also help run the
+            where I focus on pre-Seed investments. I also help run the
             <a href="https://debutsessions.co.uk">Debut Sessions</a>, a virtual
             pitch initiative aiming to democratise fundraising for pre-Seed
             startups..
