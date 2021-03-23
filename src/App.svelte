@@ -29,11 +29,10 @@
             where I focus on pre-Seed investments. I also help run the
             <a href="https://debutsessions.co.uk">Debut Sessions</a>, a virtual
             pitch initiative aiming to democratise fundraising for pre-Seed
-            startups..
+            startups.
           </p>
           <p class="my-2">
-            Aside from work, I'm an avid football fan (COYG) and an amateur
-            developer (trying my hand at full-stack at the moment). I also love
+            Aside from work, I'm an avid football fan (COYG) and love building things. I also love
             and <a
               href="https://open.spotify.com/artist/6qJuCe1wWGMYQx0LFblRKR?si=P7Q8UFzSRMKNQwAjVvFZ9Q"
             >
